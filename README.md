@@ -11,3 +11,6 @@ Clean, modern interface
 
 Download your favorite playlists with a simple click. Just paste the URL, pick your format, and you're good to go.
 Probably still has errors but i dont care enough it works 🤷‍♂️
+
+## REQUIREMENTS TO RUN THE CODE IN PYTHON
+pip install yt-dlp
